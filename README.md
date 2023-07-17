@@ -1,4 +1,3 @@
-
 #Compressor_and_Decompressor
 Synopsis of this Project:
 
