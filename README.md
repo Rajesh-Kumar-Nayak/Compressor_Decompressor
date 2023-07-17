@@ -1,5 +1,5 @@
 
-Compressor_and_Decompressor
+#Compressor_and_Decompressor
 Synopsis of this Project:
 
 This is a minor project on compressor and decompressor using Java language
