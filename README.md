@@ -1,4 +1,4 @@
-#Compressor_and_Decompressor
+<h1>Compressor and Decompressor</h1>
 Synopsis of this Project:
 
 This is a minor project on compressor and decompressor using Java language
