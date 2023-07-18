@@ -1,6 +1,6 @@
 <h1>Compressor and Decompressor</h1>
 
-Synopsis of this Project:
+Synopsis of this Project
 
 1. This is a minor project on compressor and decompressor using Java language
 2. The objective is to reduce the number of bits needed to represent data through compression technique
